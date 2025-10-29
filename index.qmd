@@ -3,7 +3,7 @@ title: "About Me: Norrie White"
 about:
   id: me
   template: broadside
-  image: img/IMG_6325.HEIC
+  image: img/Screenshot 2025-10-29 at 10.33.27 AM.png
 ---
 
 :::{#me}
